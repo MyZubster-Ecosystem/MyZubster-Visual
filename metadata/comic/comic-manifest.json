@@ -1,0 +1,56 @@
+{
+  "collection": "MyZubster Comic Visuals & Covers",
+  "version": "1.0",
+  "source_archive": "04 Comic Visuals & Covers-20260819T063246Z-1-001.zip",
+  "asset_count": 8,
+  "assets": [
+    {
+      "asset_id": "MYZ-COMIC-001",
+      "filename": "MyZubster-Bounty-526-Daniel-Combat-Concept.png",
+      "category": "bounty-concept",
+      "sha256": "c98e8612e0b13aa57c01154bcd1b0af2d2ae6b11b9a528ffc3cd88eb35c79eed"
+    },
+    {
+      "asset_id": "MYZ-COMIC-002",
+      "filename": "MyZubster-Cyberpunk-Visual-01-Manifesto-Neon.png",
+      "category": "cyberpunk-visual",
+      "sha256": "f7d9b762bdbbef15903ed945c385420d54542051de5512dc0e75f137115d16f3"
+    },
+    {
+      "asset_id": "MYZ-COMIC-003",
+      "filename": "MyZubster-Cyberpunk-Visual-02-Daniel-Chronicler.png",
+      "category": "cyberpunk-visual",
+      "sha256": "8d151e8b3d6484312ee2e0b6f660bd1b93741f2e69addd7e61a13abe74ca13fc"
+    },
+    {
+      "asset_id": "MYZ-COMIC-004",
+      "filename": "MyZubster-Cyberpunk-Visual-03-Alliance.png",
+      "category": "cyberpunk-visual",
+      "sha256": "2e07ea876e3e4548538db55ed9ca9308a934655d8016fdf9603a944f692803ff"
+    },
+    {
+      "asset_id": "MYZ-COMIC-005",
+      "filename": "MyZubster-Cyberpunk-Visual-04-Real-Life-to-Story.png",
+      "category": "cyberpunk-visual",
+      "sha256": "0b286d683bd44ca67da6512d6d5f5f9d20ec57880550493cdc5bb004d942d37e"
+    },
+    {
+      "asset_id": "MYZ-COMIC-006",
+      "filename": "MyZubster-Photos-Evidence-Dashboard-Source.png",
+      "category": "evidence-dashboard",
+      "sha256": "4e599854a8c7e653355dea975850bca35fe5291294533123c02ec9ee79e8848d"
+    },
+    {
+      "asset_id": "MYZ-COMIC-007",
+      "filename": "MyZubster-Roadmap-High-Resolution-Source.png",
+      "category": "roadmap-visual",
+      "sha256": "c06250ae635536ce2e3a08e3ff07d09bd3b24a816f3bcae63ede3c18337b8a14"
+    },
+    {
+      "asset_id": "MYZ-COMIC-008",
+      "filename": "MyZubster-Visual-Catalog-Dashboard-Source.png",
+      "category": "visual-catalog",
+      "sha256": "b1768e7a240c354b1a822d18a126445411fa45984504750a702f600c3235437c"
+    }
+  ]
+}
