@@ -6,6 +6,32 @@
 
 Canonical visual repository for the MyZubster ecosystem.
 
+## Cyberpunk Discovery Series
+
+MyZubster Visual hosts the **MyZubster Cyberpunk Discovery Series**: a global community bounty where each participant turns **their own real-world discoveries and experiences made through MyZubster** into an original cyberpunk comic series.
+
+```text
+REAL-WORLD DISCOVERY
+        ↓
+MYZUBSTER OBSERVATION / EXPERIENCE
+        ↓
+PUBLIC-SAFE EVIDENCE + CONTEXT
+        ↓
+PERSONAL CYBERPUNK INTERPRETATION
+        ↓
+COMIC EPISODE / SERIES
+        ↓
+MANUAL BOUNTY REVIEW
+        ↓
+VERIFIED → REWARD_RECORDED
+```
+
+Every creator builds their own identity, world and story. The shared MyZubster universe grows from many real people discovering the real world.
+
+- [Cyberpunk Discovery Series rules](docs/CYBERPUNK-COMIC-BOUNTY.md)
+- [Visual bounty rules](BOUNTIES.md)
+- [Community bounty entry issue #1](https://github.com/MyZubster-Ecosystem/MyZubster-Visual/issues/1)
+
 ## Structure
 
 - `assets/bots/` — AI and bot avatars
@@ -16,10 +42,12 @@ Canonical visual repository for the MyZubster ecosystem.
 - `assets/social/` — community/social assets
 - `assets/hardware/` — robotics and hardware visuals
 - `assets/icons/` — reusable icons
+- `assets/roadmap/` — roadmap visual concepts
+- `assets/comics/` — community cyberpunk comic series
 - `metadata/` — machine-readable asset catalog
 
 ## MYZ
 
 MYZ is currently an internal MyZubster platform ledger unit.
 
-Visual metadata does not imply payment, settlement, token transfer or on-chain state.
+Visual metadata, comic publication, issue closure or artwork acceptance does not itself imply payment, external settlement, token transfer or on-chain state.
