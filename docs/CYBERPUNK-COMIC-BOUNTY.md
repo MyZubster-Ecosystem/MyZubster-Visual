@@ -1,21 +1,84 @@
-# MyZubster Cyberpunk Life Series — Global Comic Bounty
+# MyZubster Cyberpunk Discovery Series — Global Comic Bounty
 
 ## Mission
 
-The **MyZubster Cyberpunk Life Series** invites people around the world to transform chapters of their real lives into original cyberpunk comic series connected to the MyZubster universe.
+The **MyZubster Cyberpunk Discovery Series** invites people around the world to transform their **real-life discoveries made through MyZubster** into original cyberpunk comic series.
 
-The goal is not to create generic fan art. Each accepted series should combine:
+This is not a generic fan-art program.
 
-- the contributor's own story, skills, challenges, places, projects or aspirations;
-- an original cyberpunk interpretation;
-- MyZubster themes such as observation, evidence, community, creativity, environmental awareness, robotics, open technology, privacy, verification and collaborative rewards;
-- a clear distinction between fiction/art and real MyZubster platform state.
+The core idea is:
 
-A comic can be imaginative without claiming that fictional blockchain, reward, robot, infrastructure or settlement elements are already deployed in the real platform.
+```text
+REAL LIFE
+   -> EXPLORE WITH MYZUBSTER
+   -> DISCOVER SOMETHING
+   -> DOCUMENT / VERIFY / LEARN
+   -> TURN THE EXPERIENCE INTO A CYBERPUNK STORY
+   -> SHARE THE SERIES WITH THE COMMUNITY
+```
+
+A discovery can be small or large. Examples include:
+
+- finding a new plant, tree, garden or biodiversity observation;
+- discovering an interesting public place, street, building or cultural landmark;
+- learning something about the environment or local community;
+- documenting a useful public service or urban detail;
+- building or repairing something;
+- creating a robot, sensor, tool or software project;
+- discovering a new skill or capability in yourself;
+- meeting collaborators or contributing to a community mission;
+- completing a safe, authorized MyZubster bounty;
+- following a chain of observations that changes how you understand your city or your life.
+
+The comic is the **creative interpretation of a real journey**. It may use cyberpunk fiction, neon cities, AI companions, robots, future interfaces or imagined worlds, but the underlying discovery should come from the contributor's real experience.
+
+## Core principle
+
+**Everyone creates their own comic from their own discoveries.**
+
+The contributor is not required to imitate Daniel or another creator.
+
+Each participant creates:
+
+- their own cyberpunk identity;
+- their own city/world;
+- their own discoveries;
+- their own missions;
+- their own visual language;
+- their own continuing series.
+
+MyZubster provides the shared framework for observation, evidence, discovery, community and rewards.
+
+## Real discovery + fiction
+
+A submission should clearly separate two layers.
+
+### Real layer
+
+Where appropriate and safe, the creator identifies:
+
+- what was discovered;
+- how MyZubster helped the exploration or documentation;
+- approximate public location/category when appropriate;
+- supporting public-safe evidence;
+- related observation/bounty/reference IDs when they actually exist.
+
+### Story layer
+
+The creator may transform that experience into:
+
+- fictional cyberpunk characters;
+- future versions of real places;
+- robots or AI companions;
+- imagined missions and antagonists;
+- symbolic interpretations of personal challenges;
+- speculative technology.
+
+Fiction must not be presented as proof that a fictional MyZubster feature, blockchain transaction, robot deployment or payment exists in the real platform.
 
 ## Who can participate
 
-Anyone may propose a series, subject to the rules below.
+Anyone may propose a series, subject to these rules.
 
 Contributors may participate as:
 
@@ -24,111 +87,140 @@ Contributors may participate as:
 - photographer / visual storyteller;
 - designer;
 - AI-assisted creator;
+- developer / maker;
 - team or collective.
 
 AI-assisted work is allowed when the contributor has the right to submit the resulting material and clearly states the workflow used. Human creative direction and responsibility remain with the contributor.
 
-## Core concept
+## Suggested episode structure
 
-Each participant creates **their own MyZubster cyberpunk identity and world**.
+A strong episode can follow this pattern:
 
-Examples:
+1. **The real discovery** — what did you encounter or learn?
+2. **The evidence** — what did you safely document?
+3. **The transformation** — how does the real discovery become cyberpunk?
+4. **The mission** — what challenge does your character face?
+5. **The MyZubster connection** — observation, map, community, bounty, robot, environment, creation or verification.
+6. **The outcome** — what changed or what did you learn?
+7. **The next discovery** — where does the next episode begin?
 
-- a gardener reimagined as an urban biodiversity explorer;
-- a mechanic as a recycler-engineer maintaining future robots;
-- a student as a data cartographer;
-- an artist as a visual evidence architect;
-- a programmer as a privacy-network builder;
-- a volunteer as a neighborhood mission coordinator;
-- a researcher as an environmental signal hunter;
-- a parent, worker, traveler or maker documenting their life as a cyberpunk journey.
-
-The story belongs to the contributor. MyZubster supplies the shared universe and evidence/reward framework.
-
-## Recommended series format
-
-A complete submission should contain at least **3 original comic pages/panels**, with 4–8 pages recommended for a full episode.
-
-Suggested structure:
-
-1. **Identity** — who are you in the MyZubster cyberpunk universe?
-2. **Real-world connection** — what part of your real life inspires the story?
-3. **Mission / challenge** — what problem, task or discovery drives the episode?
-4. **Evidence / creation** — what does the character observe, document, build or contribute?
-5. **Community** — who or what helps the mission?
-6. **Outcome** — what changes because of the contribution?
-7. **Next chapter** — where can the series continue?
-
-## Required deliverables
+## Minimum deliverables
 
 Each bounty submission must include:
 
 - series title;
-- creator or team name / public alias;
-- 3+ original comic pages/panels;
-- short synopsis (100–500 words);
-- short explanation of the real-life inspiration;
-- statement identifying which elements are fictional and which are based on real MyZubster concepts;
+- creator/team name or public alias;
+- at least **3 original comic pages/panels**;
+- synopsis of 100–500 words;
+- a short description of the **real MyZubster discovery** that inspired the episode;
+- a `real / fictional` disclosure;
 - language used in the comic;
-- source/export files where appropriate;
-- a public-safe preview image;
-- declaration that the submitter has the right to publish the submitted material.
+- public-safe preview image;
+- rights/consent declaration.
 
-Optional:
+When public evidence exists and is safe to publish, a submission may additionally include:
 
-- translated editions;
-- character sheet;
-- cover art;
-- soundtrack concept;
-- animated teaser;
-- IPFS CID after publication;
-- accessibility text / transcript.
+- MyZubster observation ID;
+- bounty ID;
+- public photo/evidence URL;
+- SHA-256;
+- IPFS CID;
+- generalized public location/category;
+- GitHub reference.
+
+These evidence fields must never be invented merely to make a comic appear more verifiable.
 
 ## Acceptance criteria
 
 A submission can reach `VERIFIED` only after manual review confirms:
 
-- [ ] the series is substantially original;
-- [ ] it tells a personal or contributor-specific story rather than copying another participant;
-- [ ] it is visibly connected to the MyZubster cyberpunk universe;
+- [ ] the comic is substantially original;
+- [ ] it is based on the creator's own real-life discovery, experience or contribution;
+- [ ] the MyZubster connection is explained;
+- [ ] the real discovery and fictional cyberpunk interpretation can be distinguished;
 - [ ] it meets the minimum page/panel requirement;
-- [ ] the story is understandable without requiring private context;
-- [ ] any real people shown or identified have appropriate permission where required;
-- [ ] private addresses, credentials, sensitive locations and confidential evidence are not exposed;
+- [ ] any evidence claimed as real actually corresponds to the stated discovery;
+- [ ] public evidence has been privacy/safety reviewed;
+- [ ] no private addresses, credentials, sensitive locations or confidential material are exposed;
+- [ ] recognizable people are handled with appropriate rights/consent;
 - [ ] third-party copyrighted material is not submitted without appropriate rights;
-- [ ] fictional rewards, transactions or blockchain state are not represented as real platform settlement;
-- [ ] the submission clearly distinguishes story-world fiction from real platform claims where confusion is possible;
-- [ ] the creator grants permission for the accepted work to be displayed in MyZubster community channels under the submission terms.
+- [ ] fictional MYZ, blockchain or settlement events are not represented as real platform transactions;
+- [ ] the creator has the right to publish the submitted work.
+
+A beautiful comic without a contributor-specific real-world discovery may still be showcased as art, but it does not automatically satisfy this discovery bounty.
 
 ## Reward model
 
 Rewards are **proposed MYZ internal-platform rewards** and are not automatic.
 
-Default suggested tiers:
-
 | Tier | Minimum deliverable | Proposed MYZ |
 |---|---:|---:|
-| Cyberpunk Spark | 3 original pages/panels + synopsis | 150 MYZ |
-| Cyberpunk Episode | 4–8 coherent pages + cover | 300 MYZ |
-| Cyberpunk Series | 3 connected episodes | 750 MYZ |
-| World Builder | series + character/world guide + multilingual edition | 1,000 MYZ |
+| Discovery Spark | 3 pages/panels + 1 real discovery | 150 MYZ |
+| Discovery Episode | 4–8 coherent pages + documented discovery + cover | 300 MYZ |
+| Discovery Series | 3 connected episodes based on separate/connected discoveries | 750 MYZ |
+| World Explorer | series + discovery index + character/world guide + multilingual edition | 1,000 MYZ |
 
-Bonus proposals may be defined for:
+Possible bonus bounty definitions may reward:
 
+- multiple verified public-safe discoveries;
+- environmental or educational value;
 - high-quality translations;
-- accessibility versions;
-- community collaboration;
-- verified original photography/evidence integrated safely into the comic;
-- open reusable design assets;
-- exceptional educational or environmental storytelling.
+- accessibility editions;
+- safe integration of original photography/evidence;
+- collaboration with other MyZubster explorers;
+- reusable open visual assets.
 
-These values are bounty definitions only after a specific issue is approved. They are not balances, payments or funding guarantees.
+These numbers remain proposed bounty definitions until a specific bounty is approved.
+
+## Discovery metadata
+
+Recommended public-safe metadata:
+
+```json
+{
+  "program": "MyZubster Cyberpunk Discovery Series",
+  "seriesId": "cyberpunk-series-...",
+  "creatorAlias": "...",
+  "episode": 1,
+  "language": "it",
+  "discovery": {
+    "title": "...",
+    "category": "plant|place|environment|technology|skill|community|other",
+    "observationId": null,
+    "bountyId": null,
+    "evidenceUrl": null,
+    "sha256": null,
+    "cid": null,
+    "privacyReviewed": true
+  },
+  "fictionDisclosure": true,
+  "status": "SUBMITTED",
+  "reward": {
+    "asset": "MYZ",
+    "amount": 300,
+    "model": "internal-platform-ledger"
+  }
+}
+```
+
+Unknown fields remain `null` or absent. They must not be fabricated.
 
 ## MYZ truth
 
 **MYZ is currently an internal MyZubster reward/accounting ledger.**
 
-Correct lifecycle:
+The discovery/comic lifecycle is:
+
+```text
+DISCOVERY
+ -> EVIDENCE / STORY CREATION
+ -> BOUNTY SUBMISSION
+ -> UNDER_REVIEW
+ -> VERIFIED
+ -> REWARD_RECORDED
+```
+
+Within the canonical bounty lifecycle this maps to:
 
 ```text
 PROPOSED
@@ -141,112 +233,96 @@ PROPOSED
  -> REWARD_RECORDED
 ```
 
-A comic being uploaded, liked, merged, shared or published does **not** automatically create a MYZ reward.
+A discovery, photo, comic, GitHub merge, publication or issue closure does **not** automatically create MYZ credit.
 
-External XMR/token/blockchain settlement, if ever explicitly included in a specific bounty, is a separate process and requires independent verification before `PAID` or `SETTLED`.
-
-## Submission metadata
-
-Recommended public metadata:
-
-```json
-{
-  "program": "MyZubster Cyberpunk Life Series",
-  "seriesId": "cyberpunk-series-...",
-  "creatorAlias": "...",
-  "title": "...",
-  "language": "...",
-  "episode": 1,
-  "pages": 5,
-  "status": "SUBMITTED",
-  "reward": {
-    "asset": "MYZ",
-    "amount": 300,
-    "model": "internal-platform-ledger"
-  },
-  "fictionDisclosure": true,
-  "privacyReviewed": true
-}
-```
-
-Do not put private user IDs, credentials, wallet secrets, home addresses or confidential material in public metadata.
+External XMR/token/blockchain settlement, if ever explicitly included in a specific bounty, remains a separate process and requires independent verification before `PAID` or `SETTLED`.
 
 ## Safety and privacy
 
-The series must not require or reward:
+Discoveries must come from safe, authorized activity.
+
+The program must not reward or require:
 
 - trespassing;
-- access to restricted infrastructure;
+- access to restricted or sensitive infrastructure;
 - photographing security-sensitive details;
+- disclosure of precise sensitive locations;
 - harassment or non-consensual portrayal of private individuals;
-- publication of private medical, financial or family information without appropriate permission;
-- dangerous real-world stunts merely for the story;
-- instructions for weapons, explosives or harmful devices;
-- credential theft or unauthorized computer access.
+- publication of private medical, financial or family information;
+- dangerous real-world stunts;
+- unauthorized computer access;
+- weapons, explosives or hazardous-device construction.
 
-Fictional cyberpunk danger may appear as storytelling, but contributors should not perform dangerous or unauthorized acts to create evidence for the comic.
+The goal is to **discover more about the world without creating harm**.
 
 ## Identity and consent
 
-Creators can use a public alias instead of their legal name.
+Creators can use a public alias instead of a legal name.
 
-If the comic uses a recognizable real person, the submitter is responsible for having the necessary rights/consent for publication. Minors and vulnerable people require especially careful treatment and should not have sensitive identifying information published.
+A contributor may tell deeply personal stories, but participation never requires publishing sensitive personal information. Real people, especially minors or vulnerable persons, require careful consent/privacy treatment.
 
 ## Languages
 
-The bounty is global. Comics may be submitted in any language.
+The program is global. Comics can be submitted in any language.
 
-For international discovery, include at least:
+For international discovery, include:
 
 - original-language title;
-- a short English summary or machine-readable translation;
-- language code where practical.
+- language code where practical;
+- short English summary.
 
-Translations must preserve the meaning of MYZ, bounty verification and settlement rules.
+Translations must preserve the distinction between real discoveries, fictional story elements, MYZ internal rewards and independently verified external settlement.
 
 ## Publication structure
 
-Recommended canonical structure in `MyZubster-Visual`:
+Recommended structure in `MyZubster-Visual`:
 
 ```text
 assets/comics/
   <creator-or-alias>/
     <series-slug>/
+      discoveries/
       cover/
       episode-01/
       episode-02/
       metadata.json
 ```
 
-Public files should be optimized for web distribution while source/master files can be managed separately when needed.
+A discovery index can connect real-world inspiration to the comic without exposing private or sensitive details.
 
 ## Review scorecard
 
 Reviewers may score 0–5 on:
 
+- real discovery connection;
 - originality;
 - storytelling;
 - visual coherence;
 - MyZubster connection;
 - personal authenticity;
+- evidence integrity;
 - privacy/safety compliance;
-- technical claim accuracy;
+- technical-claim accuracy;
 - accessibility / multilingual value.
 
 Scores support review but do not replace acceptance criteria.
 
-## Community showcase
+## Community vision
 
-Verified works may be selected for:
+Over time, individual creators can form a global anthology:
 
-- MyZubster Visual galleries;
-- community social posts;
-- documentation embeds;
-- multilingual showcases;
-- future digital anthologies;
-- cyberpunk world maps and character indexes.
+```text
+PERSON A -> their discoveries -> their cyberpunk series
+PERSON B -> their discoveries -> their cyberpunk series
+PERSON C -> their discoveries -> their cyberpunk series
+                    |
+                    v
+         MYZUBSTER CYBERPUNK WORLD
+```
 
-Showcase selection is separate from bounty verification and does not create additional rewards unless explicitly defined.
+The shared world grows from **real people discovering the real world**.
+
+Verified works may be selected for galleries, maps, community showcases, social content and future digital anthologies. Showcase selection is separate from bounty verification and does not create additional rewards unless explicitly defined.
 
 ## Canonical bounty rules
 
