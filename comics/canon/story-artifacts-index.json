@@ -1,0 +1,21 @@
+{
+  "schemaVersion": "1.0.0",
+  "project": "MyZubster Comic Universe",
+  "entries": [],
+  "artifactTypes": [
+    "REAL_EVIDENCE",
+    "CANON_INTERPRETATION",
+    "FICTION",
+    "CONCEPT_ONLY"
+  ],
+  "evidenceRepositories": {
+    "photos": "MyZubster-Ecosystem/MyZubster-Photos",
+    "core": "MyZubster-Ecosystem/myzubster",
+    "visual": "MyZubster-Ecosystem/MyZubster-Visual"
+  },
+  "rules": {
+    "rewardClaimsRequireCanonicalRecord": true,
+    "externalSettlementClaimsRequireIndependentVerification": true,
+    "publicLocationMustBePrivacySafe": true
+  }
+}
