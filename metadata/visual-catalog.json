@@ -1,5 +1,5 @@
 {
-  "schemaVersion": "1.0.0",
+  "schemaVersion": "1.1.0",
   "ecosystem": "MyZubster",
   "repository": "MyZubster-Ecosystem/MyZubster-Visual",
   "categories": {
@@ -10,8 +10,26 @@
     "maps": "assets/maps",
     "social": "assets/social",
     "hardware": "assets/hardware",
-    "icons": "assets/icons"
+    "icons": "assets/icons",
+    "roadmap": "assets/roadmap"
   },
+  "assets": [
+    {
+      "id": "roadmap-visual-overview-001",
+      "title": "MyZubster Roadmap Visual Overview",
+      "category": "roadmap",
+      "type": "concept-visual",
+      "status": "DRAFT_REQUIRES_TECHNICAL_QA",
+      "format": "image/png",
+      "drive": {
+        "fileId": "15lv4XzDjNJIxkFcCTGYvFcerR18Y_hOu",
+        "url": "https://drive.google.com/file/d/15lv4XzDjNJIxkFcCTGYvFcerR18Y_hOu/view?usp=drivesdk"
+      },
+      "sourceRoadmap": "myzubster-docs/campaign/visual-creation-roadmap.md",
+      "roadmapSection": "04 — Roadmap Visuals / Roadmap Overview",
+      "notes": "Concept communication asset. Planned/future labels and illustrative metrics must not be interpreted as deployed capabilities, production statistics, blockchain state, or settlement proof. Final publication requires technical QA against current canonical documentation."
+    }
+  ],
   "myz": {
     "symbol": "MYZ",
     "model": "internal-platform-ledger",
