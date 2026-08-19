@@ -1,0 +1,42 @@
+{
+  "schemaVersion": "1.0.0",
+  "project": "MyZubster Cyberpunk Story & Comic",
+  "canonicalRepository": "MyZubster-Ecosystem/MyZubster-Visual",
+  "entries": [],
+  "entryTemplate": {
+    "storyId": "story-...",
+    "seriesId": "daniel-origins",
+    "episodeId": "episode-01",
+    "title": "...",
+    "realEvent": {
+      "status": "SOURCE_NEEDED",
+      "summary": null,
+      "period": null,
+      "publicSafeLocation": null
+    },
+    "fiction": {
+      "cyberpunkAdaptation": null,
+      "disclosureRequired": true
+    },
+    "photoRefs": [],
+    "observationRefs": [],
+    "metadataRefs": [],
+    "bountyRefs": [],
+    "rewardRefs": [],
+    "githubRefs": [],
+    "ipfsRefs": [],
+    "integrity": {
+      "sha256": [],
+      "privacyReviewed": false,
+      "technicalClaimReviewed": false
+    },
+    "status": "SOURCE_NEEDED"
+  },
+  "truthRules": {
+    "myzModel": "internal-platform-ledger",
+    "myzRewardAutomatic": false,
+    "externalSettlementAutomatic": false,
+    "paidRequiresIndependentVerification": true,
+    "fictionMustNotBePresentedAsPlatformFact": true
+  }
+}
