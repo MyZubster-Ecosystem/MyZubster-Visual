@@ -1,8 +1,8 @@
-c98e8612e0b13aa57c01154bcd1b0af2d2ae6b11b9a528ffc3cd88eb35c79eed  extracted/04 Comic Visuals & Covers/MyZubster-Bounty-526-Daniel-Combat-Concept.png
-f7d9b762bdbbef15903ed945c385420d54542051de5512dc0e75f137115d16f3  extracted/04 Comic Visuals & Covers/MyZubster-Cyberpunk-Visual-01-Manifesto-Neon.png
-8d151e8b3d6484312ee2e0b6f660bd1b93741f2e69addd7e61a13abe74ca13fc  extracted/04 Comic Visuals & Covers/MyZubster-Cyberpunk-Visual-02-Daniel-Chronicler.png
-2e07ea876e3e4548538db55ed9ca9308a934655d8016fdf9603a944f692803ff  extracted/04 Comic Visuals & Covers/MyZubster-Cyberpunk-Visual-03-Alliance.png
-0b286d683bd44ca67da6512d6d5f5f9d20ec57880550493cdc5bb004d942d37e  extracted/04 Comic Visuals & Covers/MyZubster-Cyberpunk-Visual-04-Real-Life-to-Story.png
-4e599854a8c7e653355dea975850bca35fe5291294533123c02ec9ee79e8848d  extracted/04 Comic Visuals & Covers/MyZubster-Photos-Evidence-Dashboard-Source.png
-c06250ae635536ce2e3a08e3ff07d09bd3b24a816f3bcae63ede3c18337b8a14  extracted/04 Comic Visuals & Covers/MyZubster-Roadmap-High-Resolution-Source.png
-b1768e7a240c354b1a822d18a126445411fa45984504750a702f600c3235437c  extracted/04 Comic Visuals & Covers/MyZubster-Visual-Catalog-Dashboard-Source.png
+c98e8612e0b13aa57c01154bcd1b0af2d2ae6b11b9a528ffc3cd88eb35c79eed  assets/comic/MyZubster-Bounty-526-Daniel-Combat-Concept.png
+f7d9b762bdbbef15903ed945c385420d54542051de5512dc0e75f137115d16f3  assets/comic/MyZubster-Cyberpunk-Visual-01-Manifesto-Neon.png
+8d151e8b3d6484312ee2e0b6f660bd1b93741f2e69addd7e61a13abe74ca13fc  assets/comic/MyZubster-Cyberpunk-Visual-02-Daniel-Chronicler.png
+2e07ea876e3e4548538db55ed9ca9308a934655d8016fdf9603a944f692803ff  assets/comic/MyZubster-Cyberpunk-Visual-03-Alliance.png
+0b286d683bd44ca67da6512d6d5f5f9d20ec57880550493cdc5bb004d942d37e  assets/comic/MyZubster-Cyberpunk-Visual-04-Real-Life-to-Story.png
+4e599854a8c7e653355dea975850bca35fe5291294533123c02ec9ee79e8848d  assets/comic/MyZubster-Photos-Evidence-Dashboard-Source.png
+c06250ae635536ce2e3a08e3ff07d09bd3b24a816f3bcae63ede3c18337b8a14  assets/comic/MyZubster-Roadmap-High-Resolution-Source.png
+b1768e7a240c354b1a822d18a126445411fa45984504750a702f600c3235437c  assets/comic/MyZubster-Visual-Catalog-Dashboard-Source.png
