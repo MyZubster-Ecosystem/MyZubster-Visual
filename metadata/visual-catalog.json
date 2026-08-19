@@ -28,6 +28,21 @@
       "sourceRoadmap": "myzubster-docs/campaign/visual-creation-roadmap.md",
       "roadmapSection": "04 — Roadmap Visuals / Roadmap Overview",
       "notes": "Concept communication asset. Planned/future labels and illustrative metrics must not be interpreted as deployed capabilities, production statistics, blockchain state, or settlement proof. Final publication requires technical QA against current canonical documentation."
+    },
+    {
+      "id": "visual-catalog-concept-001",
+      "title": "MyZubster Visual Catalog Concept Board",
+      "category": "brand",
+      "type": "concept-visual",
+      "status": "DRAFT_REQUIRES_TECHNICAL_QA",
+      "format": "image/png",
+      "drive": {
+        "fileId": "1bbvibDKe-yIXteLag3i0wkBQU6VBcM8p",
+        "url": "https://drive.google.com/file/d/1bbvibDKe-yIXteLag3i0wkBQU6VBcM8p/view?usp=drivesdk"
+      },
+      "sourceRoadmap": "myzubster-docs/campaign/visual-creation-roadmap.md",
+      "roadmapSection": "01 — Visual Foundation / reference board",
+      "notes": "Design-system concept board. Some labels, dates, metrics and future components shown in the concept are illustrative and are not canonical project facts. Use as visual-direction reference only until technical QA is complete."
     }
   ],
   "myz": {
