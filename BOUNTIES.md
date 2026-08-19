@@ -1,27 +1,43 @@
 # MyZubster Visual Bounties
 
-This repository accepts visual, storytelling, illustration, design-system, comic, diagram and media bounties that comply with the canonical MyZubster bounty contract.
-
-Canonical rules:
+This repository hosts visual and storytelling bounties that inherit the canonical MyZubster bounty contract:
 
 https://github.com/MyZubster-Ecosystem/myzubster/blob/main/BOUNTIES.md
 
-## Cyberpunk Life Series
+## Cyberpunk Discovery Series
 
-The global community comic program is documented here:
+The flagship community bounty is the **MyZubster Cyberpunk Discovery Series**.
+
+Each participant creates an original cyberpunk comic based on **their own real-life discoveries, experiences or contributions made through MyZubster**.
+
+The expected pattern is:
+
+```text
+REAL-WORLD DISCOVERY
+ -> PUBLIC-SAFE EVIDENCE / CONTEXT
+ -> PERSONAL CYBERPUNK INTERPRETATION
+ -> COMIC SERIES
+ -> MANUAL REVIEW
+ -> VERIFIED
+ -> REWARD_RECORDED
+```
+
+Program rules:
 
 - [`docs/CYBERPUNK-COMIC-BOUNTY.md`](docs/CYBERPUNK-COMIC-BOUNTY.md)
+- Community entry issue: [#1](https://github.com/MyZubster-Ecosystem/MyZubster-Visual/issues/1)
 
-Participants may create original MyZubster cyberpunk series inspired by their own lives, skills, places, projects and aspirations.
+## Reward truth
 
-## Important reward rules
+MYZ is currently an **internal MyZubster reward/accounting ledger**.
 
-- An issue is not automatically an approved or funded bounty.
-- A submission or merged PR is not automatically `VERIFIED`.
-- MYZ is currently an internal platform reward/accounting ledger.
-- No automatic MYZ credit is created by uploading artwork.
-- Any XMR/token/blockchain settlement must be explicitly defined and independently verified before `PAID`/`SETTLED`.
-- Public artwork and metadata must respect privacy, consent and safety requirements.
+A comic, discovery, issue, PR, merge, publication or showcase does not automatically create a MYZ reward. A specific bounty must pass its defined lifecycle and manual acceptance criteria before a reward can be recorded.
+
+External XMR/token/blockchain settlement is separate and requires independent verification before it can be represented as `PAID` or `SETTLED`.
+
+## Safety and privacy
+
+Visual bounties must not encourage trespassing, restricted-area access, sensitive infrastructure collection, unsafe stunts, private-data disclosure or non-consensual publication.
 
 ## Lifecycle
 
