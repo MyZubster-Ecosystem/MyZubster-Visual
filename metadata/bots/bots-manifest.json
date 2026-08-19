@@ -1,0 +1,117 @@
+{
+  "collection": "MyZubster AI & Bot Avatars",
+  "version": "1.0",
+  "generated_at": "2026-08-19T06:55:41.327029+00:00",
+  "asset_count": 9,
+  "repository": "MyZubster-Ecosystem/MyZubster-Visual",
+  "assets": [
+    {
+      "asset_id": "MYZ-BOT-001",
+      "filename": "clowbot.png",
+      "name": "ClowBot",
+      "category": "ai-bot-avatar",
+      "mime_type": "image/png",
+      "size_bytes": 2228899,
+      "sha256": "f890724c0b4b008775be1f17fcfd66924efb0f6d6540d2663d3e41c73f9b923c",
+      "repository_path": "assets/bots/clowbot.png",
+      "status": "published",
+      "metadata_ready": true
+    },
+    {
+      "asset_id": "MYZ-BOT-002",
+      "filename": "crawler-bot.png",
+      "name": "Crawler Bot",
+      "category": "ai-bot-avatar",
+      "mime_type": "image/png",
+      "size_bytes": 2097389,
+      "sha256": "de58e19ada19febf62bc860d6e6b04015e3cf5e50c583253c7548580c85122be",
+      "repository_path": "assets/bots/crawler-bot.png",
+      "status": "published",
+      "metadata_ready": true
+    },
+    {
+      "asset_id": "MYZ-BOT-003",
+      "filename": "eva-ioni.png",
+      "name": "EVA IONI",
+      "category": "ai-bot-avatar",
+      "mime_type": "image/png",
+      "size_bytes": 2278507,
+      "sha256": "9cd9dbedb3678750a1f6a380633e51ff5948983af29178b89c0636b16b019ba2",
+      "repository_path": "assets/bots/eva-ioni.png",
+      "status": "published",
+      "metadata_ready": true
+    },
+    {
+      "asset_id": "MYZ-BOT-004",
+      "filename": "github-bounty-bot.png",
+      "name": "GitHub Bounty Bot",
+      "category": "ai-bot-avatar",
+      "mime_type": "image/png",
+      "size_bytes": 2080779,
+      "sha256": "c0ed8584814d2bf400780e6736c1afae69b5fddf9592987a18271df6f4f3899f",
+      "repository_path": "assets/bots/github-bounty-bot.png",
+      "status": "published",
+      "metadata_ready": true
+    },
+    {
+      "asset_id": "MYZ-BOT-005",
+      "filename": "myzubster-ai-bot.png",
+      "name": "MyZubster AI Bot",
+      "category": "ai-bot-avatar",
+      "mime_type": "image/png",
+      "size_bytes": 1879784,
+      "sha256": "7e3e1bfe0098b72e3ef0a676924d48557ea1167108a8fa33f3be8f2c8b2d7329",
+      "repository_path": "assets/bots/myzubster-ai-bot.png",
+      "status": "published",
+      "metadata_ready": true
+    },
+    {
+      "asset_id": "MYZ-BOT-006",
+      "filename": "notification-bot.png",
+      "name": "Notification Bot",
+      "category": "ai-bot-avatar",
+      "mime_type": "image/png",
+      "size_bytes": 2049516,
+      "sha256": "2647b2797279392e0c0080bc2389e716cf4d5f9ae0bbc1e7451ac5d73716655b",
+      "repository_path": "assets/bots/notification-bot.png",
+      "status": "published",
+      "metadata_ready": true
+    },
+    {
+      "asset_id": "MYZ-BOT-007",
+      "filename": "space-station-ai.png",
+      "name": "Space Station AI",
+      "category": "ai-bot-avatar",
+      "mime_type": "image/png",
+      "size_bytes": 2167170,
+      "sha256": "6c4fdf6a72ff5dc15f5b176314dfd7248cb9b86b1f2840dfd87df65df527634e",
+      "repository_path": "assets/bots/space-station-ai.png",
+      "status": "published",
+      "metadata_ready": true
+    },
+    {
+      "asset_id": "MYZ-BOT-008",
+      "filename": "telegram-bot.png",
+      "name": "Telegram Bot",
+      "category": "ai-bot-avatar",
+      "mime_type": "image/png",
+      "size_bytes": 2158031,
+      "sha256": "6ac72132536ceb77777da4769f4f19484f03439162b1ab5a6ef6e36e0972468b",
+      "repository_path": "assets/bots/telegram-bot.png",
+      "status": "published",
+      "metadata_ready": true
+    },
+    {
+      "asset_id": "MYZ-BOT-009",
+      "filename": "verifier-ai.png",
+      "name": "Verifier AI",
+      "category": "ai-bot-avatar",
+      "mime_type": "image/png",
+      "size_bytes": 2119341,
+      "sha256": "89b338f3f4600c1782f9e9f29240bb0a9a2bf2ba46f23aec295d31eeba236524",
+      "repository_path": "assets/bots/verifier-ai.png",
+      "status": "published",
+      "metadata_ready": true
+    }
+  ]
+}
