@@ -1,0 +1,121 @@
+name: Publish article to DEV.to
+
+on:
+  workflow_dispatch:
+    inputs:
+      article_path:
+        description: "Repository path to the Markdown article"
+        required: true
+        default: "devto/myzubster-cyberpunk-series.md"
+      tags:
+        description: "Comma-separated DEV tags (max 4)"
+        required: true
+        default: "opensource,github,ai,robotics"
+      series:
+        description: "Optional DEV series name"
+        required: false
+        default: "MyZubster Build Log"
+      main_image:
+        description: "Optional public HTTPS cover image URL"
+        required: false
+        default: "https://raw.githubusercontent.com/MyZubster-Ecosystem/MyZubster-Visual/main/assets/cyberpunk-series/MyZubster-Cyberpunk-Serie-01-Daniel-nel-Neon.png"
+      publish:
+        description: "Publish immediately instead of creating a draft"
+        required: true
+        type: boolean
+        default: false
+
+permissions:
+  contents: read
+
+jobs:
+  publish-devto:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Validate configuration
+        env:
+          ARTICLE_PATH: ${{ inputs.article_path }}
+          TAGS: ${{ inputs.tags }}
+          DEVTO_API_KEY: ${{ secrets.DEVTO_API_KEY }}
+        run: |
+          test -n "$DEVTO_API_KEY" || { echo "Missing repository secret DEVTO_API_KEY"; exit 1; }
+          test -f "$ARTICLE_PATH" || { echo "Article not found: $ARTICLE_PATH"; exit 1; }
+          python3 - <<'PY'
+          import os
+          tags = [t.strip() for t in os.environ['TAGS'].split(',') if t.strip()]
+          if not 1 <= len(tags) <= 4:
+              raise SystemExit('DEV requires between 1 and 4 tags for this workflow.')
+          print('Tags:', ', '.join(tags))
+          PY
+
+      - name: Create DEV.to article
+        env:
+          ARTICLE_PATH: ${{ inputs.article_path }}
+          TAGS: ${{ inputs.tags }}
+          SERIES: ${{ inputs.series }}
+          MAIN_IMAGE: ${{ inputs.main_image }}
+          PUBLISH: ${{ inputs.publish }}
+          DEVTO_API_KEY: ${{ secrets.DEVTO_API_KEY }}
+        run: |
+          python3 - <<'PY'
+          import json
+          import os
+          import re
+          import urllib.request
+          import urllib.error
+          from pathlib import Path
+
+          path = Path(os.environ['ARTICLE_PATH'])
+          markdown = path.read_text(encoding='utf-8').strip()
+
+          match = re.match(r'^#\s+(.+?)\s*$', markdown, flags=re.MULTILINE)
+          if not match:
+              raise SystemExit('Article must contain an H1 title (# Title).')
+
+          title = match.group(1).strip()
+          body = markdown[:match.start()] + markdown[match.end():]
+          body = body.lstrip('\n').strip() + '\n'
+
+          tags = [t.strip() for t in os.environ['TAGS'].split(',') if t.strip()]
+          article = {
+              'title': title,
+              'body_markdown': body,
+              'published': os.environ.get('PUBLISH', 'false').lower() == 'true',
+              'tags': ','.join(tags),
+          }
+
+          series = os.environ.get('SERIES', '').strip()
+          main_image = os.environ.get('MAIN_IMAGE', '').strip()
+          if series:
+              article['series'] = series
+          if main_image:
+              article['main_image'] = main_image
+
+          payload = json.dumps({'article': article}).encode('utf-8')
+          req = urllib.request.Request(
+              'https://dev.to/api/articles',
+              data=payload,
+              method='POST',
+              headers={
+                  'api-key': os.environ['DEVTO_API_KEY'],
+                  'Accept': 'application/vnd.forem.api-v1+json',
+                  'Content-Type': 'application/json',
+                  'User-Agent': 'MyZubster-Visual-GitHub-Actions/1.0',
+              },
+          )
+
+          try:
+              with urllib.request.urlopen(req) as response:
+                  result = json.loads(response.read().decode('utf-8'))
+          except urllib.error.HTTPError as exc:
+              detail = exc.read().decode('utf-8', errors='replace')
+              raise SystemExit(f'DEV API error {exc.code}: {detail}')
+
+          print('DEV article created successfully')
+          print('ID:', result.get('id'))
+          print('Published:', result.get('published'))
+          print('URL:', result.get('url') or result.get('path') or '(draft URL not returned)')
+          PY
