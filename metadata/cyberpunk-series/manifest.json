@@ -1,0 +1,75 @@
+{
+  "collection": "MyZubster Cyberpunk Series",
+  "version": "1.0",
+  "generated_at": "2026-08-19T09:13:30.136419+00:00",
+  "asset_count": 6,
+  "repository": "MyZubster-Ecosystem/MyZubster-Visual",
+  "assets": [
+    {
+      "asset_id": "MYZ-CYBER-001",
+      "filename": "Daniel-Ioni-MyZubster-Visual-01.png",
+      "category": "cyberpunk-series",
+      "mime_type": "image/png",
+      "size_bytes": 2807772,
+      "sha256": "7cf9896c1b590af50104853b2a4294bd73495663db99b06415cee4776a57d598",
+      "repository_path": "assets/cyberpunk-series/Daniel-Ioni-MyZubster-Visual-01.png",
+      "status": "published",
+      "metadata_ready": true
+    },
+    {
+      "asset_id": "MYZ-CYBER-002",
+      "filename": "MyZubster-Cyberpunk-Serie-01-Daniel-nel-Neon.png",
+      "category": "cyberpunk-series",
+      "mime_type": "image/png",
+      "size_bytes": 2751764,
+      "sha256": "27ea3c6b4dd5b36c1d57975ccd684c9ebf37a805a114f7b4a42bb9cabea7212c",
+      "repository_path": "assets/cyberpunk-series/MyZubster-Cyberpunk-Serie-01-Daniel-nel-Neon.png",
+      "status": "published",
+      "metadata_ready": true
+    },
+    {
+      "asset_id": "MYZ-CYBER-003",
+      "filename": "MyZubster-Cyberpunk-Serie-02-Giardini-Dati-Ricompense.png",
+      "category": "cyberpunk-series",
+      "mime_type": "image/png",
+      "size_bytes": 2808448,
+      "sha256": "b5fa9468f02217326d35c28856e3565b7fec801c1f1ea89f2dc67c5daa4b8660",
+      "repository_path": "assets/cyberpunk-series/MyZubster-Cyberpunk-Serie-02-Giardini-Dati-Ricompense.png",
+      "status": "published",
+      "metadata_ready": true
+    },
+    {
+      "asset_id": "MYZ-CYBER-004",
+      "filename": "MyZubster-Cyberpunk-Serie-03-Robot-Riciclo-Invenzioni.png",
+      "category": "cyberpunk-series",
+      "mime_type": "image/png",
+      "size_bytes": 2910493,
+      "sha256": "1cf49ff79b0692ec8301cff6ddb8b84327df837dc706ecb48194f760951095f2",
+      "repository_path": "assets/cyberpunk-series/MyZubster-Cyberpunk-Serie-03-Robot-Riciclo-Invenzioni.png",
+      "status": "published",
+      "metadata_ready": true
+    },
+    {
+      "asset_id": "MYZ-CYBER-005",
+      "filename": "MyZubster-Cyberpunk-Serie-04-Rete-Decentralizzata.png",
+      "category": "cyberpunk-series",
+      "mime_type": "image/png",
+      "size_bytes": 2904488,
+      "sha256": "43f7a8d50bec02aeeaf2d498109df8d1970c1cc73c900b036e7ae214fd5d26b7",
+      "repository_path": "assets/cyberpunk-series/MyZubster-Cyberpunk-Serie-04-Rete-Decentralizzata.png",
+      "status": "published",
+      "metadata_ready": true
+    },
+    {
+      "asset_id": "MYZ-CYBER-006",
+      "filename": "MyZubster-Cyberpunk-Unmet-Contributors-Concept.png",
+      "category": "cyberpunk-series",
+      "mime_type": "image/png",
+      "size_bytes": 2447606,
+      "sha256": "0080550d0f82dd479b4fae94e417272e9b55c77dc51a1fa86ce325d91507e793",
+      "repository_path": "assets/cyberpunk-series/MyZubster-Cyberpunk-Unmet-Contributors-Concept.png",
+      "status": "published",
+      "metadata_ready": true
+    }
+  ]
+}
