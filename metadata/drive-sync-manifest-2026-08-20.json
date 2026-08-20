@@ -1,0 +1,95 @@
+{
+  "files": [
+    {
+      "path": "assets/zorgax/zorgax-001-myzubster.jpg",
+      "sha256": "7248cadbdf7224d2784e57a9d0d70e808577d5f536a1406274c6feda731a5c44",
+      "bytes": 550619
+    },
+    {
+      "path": "assets/zorgax/zorgax-ambassador-profile.jpg",
+      "sha256": "c1a0f453f4d5339243a993f2590843f722c5130a7b3c359ac1c99ffd0db60382",
+      "bytes": 403559
+    },
+    {
+      "path": "assets/comic/MyZubster-Robot-Cyberpunk-Comic-README.png",
+      "sha256": "85f057046f15d05c5f1c7894acc880fd482ea64b5d0ab2cdcd80f6515414bdcc",
+      "bytes": 2705097
+    },
+    {
+      "path": "assets/comic/MyZubster-Robot-Stack-Cyberpunk-Comic-README.png",
+      "sha256": "6c30e931fd371c0c2aadff56095e3941a8602cb2c691e52868dbc26a6fc4519d",
+      "bytes": 2606433
+    },
+    {
+      "path": "assets/comic/MyZubsterWeb-Cyberpunk-Comic-README-v2.png",
+      "sha256": "8a453db4c346c3ebbfaa284e4664e851dc7f655518cca1f36ac2cde8d345c245",
+      "bytes": 2554866
+    },
+    {
+      "path": "assets/comic/MyZubster-Core-Cyberpunk-Comic-README.png",
+      "sha256": "32a5d4c2ea1ee12d6b5b5e8ab86be3eba2f7f662cb6a8294acf3e35e669789b6",
+      "bytes": 2642642
+    },
+    {
+      "path": "assets/comic/animal-registry-Comic-README.png",
+      "sha256": "6ff81a547017ade4da48e951f2bf58a48a023b35d035fe47389d7679a7bb2a6f",
+      "bytes": 2325821
+    },
+    {
+      "path": "assets/comic/myzubster-docs-Comic-README.png",
+      "sha256": "8330b6fb62a17d4249a7d8133cbac96ceac2b0dca57a783fd9d49ec06fbf5b99",
+      "bytes": 2177354
+    },
+    {
+      "path": "assets/comic/MyZubsterApp-Real-World-Skills-README.png",
+      "sha256": "7dcc09c4019ea358d6343ba7c62a4e42974389490f788b5b0cef357a1bc06499",
+      "bytes": 2256030
+    },
+    {
+      "path": "assets/comic/MyZubsterMarketplace-Comic.png",
+      "sha256": "bef430ecb0e175b1b618948f9724bbee4a0bd27262a257e2da68b3f0d70b5be4",
+      "bytes": 2338469
+    },
+    {
+      "path": "assets/comic/MyZubsterVote-Comic-v2.png",
+      "sha256": "5688eed3522d0f364c565b661137d1eee0b0c5eaa58311fce8bafb87dfe018c5",
+      "bytes": 2212906
+    },
+    {
+      "path": "assets/comic/MyZubsterBounty-Comic.png",
+      "sha256": "ca40026022f673d894337b33d80f68e7ec38047132b6b98ddd8e05e55bd9b82a",
+      "bytes": 2370965
+    },
+    {
+      "path": "assets/comic/MyZubsterAI-Comic.png",
+      "sha256": "0cb8352ba92e3d5cc69fc0b288954d239014df82ae7a28d21e555e6e2c560cee",
+      "bytes": 2248965
+    },
+    {
+      "path": "assets/comic/MyZubsterGateway-Comic.png",
+      "sha256": "7a2ac6998a052e47715f6b1e5139fc7fe2676ff3d86eecde619da922bb27dde0",
+      "bytes": 2213168
+    },
+    {
+      "path": "assets/comic/MyZubster-Repo-Comic-Grid-01.png",
+      "sha256": "007efa7c3171ce9506eb839bab13ff1cc00b9f23a2efd620062c8dd1f2915462",
+      "bytes": 2563334
+    },
+    {
+      "path": "assets/comic/MyZubster-How-It-Works-Comic-README.png",
+      "sha256": "de30315472ddd4769d8044612d440d552283d44cb33e10c9e1fb256a2138a511",
+      "bytes": 2583791
+    },
+    {
+      "path": "assets/diagrams/MYZ-VIS-001-Tari-Wallet-Flow.jpg",
+      "sha256": "562723ae57fda4283e28bb448ec44c5f00485a5de540129d7c5352d0d712790c",
+      "bytes": 71394
+    },
+    {
+      "path": "assets/diagrams/MYZ-VIS-003-Gateway-Escrow-Lifecycle.jpg",
+      "sha256": "7f99e3197b2be217295e83c60ba85d7a2f1e01f0f865f0adccc039f04b58bb40",
+      "bytes": 138602
+    }
+  ],
+  "missing": []
+}
