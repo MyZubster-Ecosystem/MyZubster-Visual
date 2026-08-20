@@ -1,0 +1,45 @@
+name: Materialize milestone visual
+
+on:
+  push:
+    branches:
+      - sync-drive-assets-2026-08-20
+    paths:
+      - 'assets/milestones/MyZubster-Milestone-Verified-Digital-Identity-Foundation-August-2026.webp.b64'
+      - '.github/workflows/materialize-milestone-visual.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  materialize:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout sync branch
+        uses: actions/checkout@v4
+        with:
+          ref: sync-drive-assets-2026-08-20
+
+      - name: Decode and verify WebP
+        shell: bash
+        run: |
+          set -euo pipefail
+          B64='assets/milestones/MyZubster-Milestone-Verified-Digital-Identity-Foundation-August-2026.webp.b64'
+          IMG='assets/milestones/MyZubster-Milestone-Verified-Digital-Identity-Foundation-August-2026.webp'
+          base64 --decode "$B64" > "$IMG"
+          test "$(wc -c < "$IMG")" -gt 30000
+          file "$IMG" | grep -qi 'Web/P'
+
+      - name: Commit materialized visual and remove temporary payload
+        shell: bash
+        run: |
+          set -euo pipefail
+          B64='assets/milestones/MyZubster-Milestone-Verified-Digital-Identity-Foundation-August-2026.webp.b64'
+          IMG='assets/milestones/MyZubster-Milestone-Verified-Digital-Identity-Foundation-August-2026.webp'
+          WF='.github/workflows/materialize-milestone-visual.yml'
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -- "$IMG"
+          git rm -- "$B64" "$WF"
+          git commit -m 'Add verified digital identity milestone visual'
+          git push origin HEAD:sync-drive-assets-2026-08-20
