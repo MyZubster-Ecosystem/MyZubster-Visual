@@ -27,7 +27,7 @@ The Drive audit found these assets already represented in this repository:
 
 ## Candidate binary imports from Drive
 
-These files were present in the curated Drive comic folder and were not found by exact-name audit in the organization repositories. They should be imported only once, using the canonical paths below.
+These files were present in the curated Drive material and were not found by exact-name audit in the organization repositories. They should be imported only once, using the canonical paths below.
 
 ### `assets/comic/`
 
@@ -44,15 +44,29 @@ These files were present in the curated Drive comic folder and were not found by
 - `MyZubsterGateway-Comic.png`
 - `MyZubster-Repo-Comic-Grid-01.png`
 - `MyZubster-How-It-Works-Comic-README.png`
+- `MyZubster — Fumetto cyberpunk collaborazione futura.png`
 
 ### `assets/social/`
 
 - `MYZ-SOC-002_MyZubster_Comic.png`
 - `MyZubster_Comics_Quando_l_ignoto_diventa_alleato.png`
+- `MyZubster_Story_Facebook_Instagram.png`
 
 ## Repository-specific artwork
 
 Artwork whose filename names a specific repository may also be referenced from that repository's README or docs, but the binary source should remain canonical here unless there is a clear product-specific reason to store a copy elsewhere. Avoid duplicating multi-megabyte artwork across repositories.
+
+Suggested reference targets:
+
+- Robot artwork → `MyZubster-Ecosystem/MyZubster-Robot`
+- Robot Stack artwork → `MyZubster-Ecosystem/MyZubster-Robot-Stack`
+- Web artwork → `MyZubster-Ecosystem/MyZubsterWeb`
+- Core artwork → `MyZubster-Ecosystem/myzubster`
+- Animal Registry artwork → `MyZubster-Ecosystem/myzubster-animal-registry`
+- Docs artwork → `MyZubster-Ecosystem/myzubster-docs`
+- Marketplace artwork → `MyZubster-Ecosystem/MyZubster-Marketplace`
+- AI artwork → `MyZubster-Ecosystem/myzubster-ai-bot`
+- Gateway artwork → `MyZubster-Ecosystem/MyZubsterGateway`
 
 ## Canon already present
 
