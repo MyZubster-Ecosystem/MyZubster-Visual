@@ -43,8 +43,11 @@ Every creator builds their own identity, world and story. The shared MyZubster u
 - `assets/hardware/` — robotics and hardware visuals
 - `assets/icons/` — reusable icons
 - `assets/roadmap/` — roadmap visual concepts
-- `assets/comics/` — community cyberpunk comic series
+- `assets/comic/` — binary comic artwork and comic-related source visuals
+- `comics/` — comic canon, series structure and contributor documentation
 - `metadata/` — machine-readable asset catalog
+
+The `assets/comic/` and `comics/` directories have different purposes: binary artwork belongs under `assets/comic/`, while narrative canon, series indexes and contributor documentation belong under `comics/`. This avoids duplicating the same material across competing paths.
 
 ## MYZ
 
