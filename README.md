@@ -54,3 +54,11 @@ The `assets/comic/` and `comics/` directories have different purposes: binary ar
 MYZ is currently an internal MyZubster platform ledger unit.
 
 Visual metadata, comic publication, issue closure or artwork acceptance does not itself imply payment, external settlement, token transfer or on-chain state.
+
+---
+
+## Official project identity
+
+MyZubster is maintained within the [MyZubster-Ecosystem](https://github.com/MyZubster-Ecosystem) organization. Canonical public administrator/maintainer reference: **[Daniel Ioni (@DanielIoni-creator)](https://github.com/DanielIoni-creator)**.
+
+This link is a stable public project-identity reference. By itself, it is not a cryptographic signature or legal identity certification.
