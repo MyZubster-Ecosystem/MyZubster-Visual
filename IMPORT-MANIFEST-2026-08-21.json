@@ -1,0 +1,139 @@
+{
+  "generated_at": "2026-08-21",
+  "repo": "MyZubster-Ecosystem/MyZubster-Visual",
+  "files": [
+    {
+      "source_file": "MyZubster-Entity-Universe.png.jpg",
+      "target_path": "assets/diagrams/myzubster-entity-universe.jpg",
+      "bytes": 463183,
+      "sha256": "96db934c258589220c396314c523e962447ca197da8b9d82af93a50187fa02da"
+    },
+    {
+      "source_file": "MyZubster-TAZ-Metaverse-Daniel-Ioni-and-Friends.png.jpg",
+      "target_path": "assets/events/taz-riccione-2026/taz-metaverse-daniel-ioni-and-friends.jpg",
+      "bytes": 407906,
+      "sha256": "feb27f7420e9f5d68e35f118803fde3dd91dc0bedaa7a9dab82e695498ba7e60"
+    },
+    {
+      "source_file": "FLUFFYPONY-Robot-Barista-Laser-Projection-Visual-Cryptography.png.jpg",
+      "target_path": "assets/characters/fluffypony-robot-barista-visual-cryptography.jpg",
+      "bytes": 463565,
+      "sha256": "bb67da3f070ec364439d5337ee40588b40b60eaba85861f7be441bbbfd2ad683"
+    },
+    {
+      "source_file": "SELYA-9-Cyberpunk-Avatar-Brand-Board.png.jpg",
+      "target_path": "assets/characters/selya-9-cyberpunk-avatar-brand-board.jpg",
+      "bytes": 447397,
+      "sha256": "afdb563b257009e45709ec61b8c427c393ddf0f13488e6800a97ee2847c6ed17"
+    },
+    {
+      "source_file": "NYTHERA-Cyberpunk-Avatar-Brand-Board.png.jpg",
+      "target_path": "assets/characters/nythera-cyberpunk-avatar-brand-board.jpg",
+      "bytes": 408700,
+      "sha256": "dad36c5287fd747c833d687e1d4d30cf87e15310ddf7e421a3a8f0b211cf7f06"
+    },
+    {
+      "source_file": "ZORGAX-Cyberpunk-Brand-Ecosystem.png.jpg",
+      "target_path": "assets/zorgax/zorgax-cyberpunk-brand-ecosystem.jpg",
+      "bytes": 467459,
+      "sha256": "8aa72d3e8ec396dff1bdff14c4df2b5d583fc9e4734fa1ebcd8aff4d73f50d50"
+    },
+    {
+      "source_file": "zorgax-ambassador-profile.png.jpg",
+      "target_path": "assets/zorgax/zorgax-ambassador-profile.jpg",
+      "bytes": 403559,
+      "sha256": "c1a0f453f4d5339243a993f2590843f722c5130a7b3c359ac1c99ffd0db60382"
+    },
+    {
+      "source_file": "zorgax-001-myzubster.png.jpg",
+      "target_path": "assets/zorgax/zorgax-001-myzubster.jpg",
+      "bytes": 550619,
+      "sha256": "7248cadbdf7224d2784e57a9d0d70e808577d5f536a1406274c6feda731a5c44"
+    },
+    {
+      "source_file": "MyZubster-Roadmap-Phase-1-Foundation.png.jpg",
+      "target_path": "assets/roadmaps/phase-1-foundation.jpg",
+      "bytes": 398041,
+      "sha256": "68eb13c299182037cc8b0f1c149d7d3265ea637448edd8225356b8601c745557"
+    },
+    {
+      "source_file": "MyZubster-Roadmap-Phase-2-Integration.png.jpg",
+      "target_path": "assets/roadmaps/phase-2-integration.jpg",
+      "bytes": 396914,
+      "sha256": "a2c7a0136684e23141b6a881e464ce9679aedf078c583a8e3f12ee779a43219b"
+    },
+    {
+      "source_file": "MyZubster-Roadmap-Phase-3-Pilots.png.jpg",
+      "target_path": "assets/roadmaps/phase-3-pilots.jpg",
+      "bytes": 456653,
+      "sha256": "17fcd4e0cd2f2dbcdbeacba78c4316da1e87b5494a34ec6b6f31eebd45d8ae6a"
+    },
+    {
+      "source_file": "MyZubster-Roadmap-Phase-4-Validation.png.jpg",
+      "target_path": "assets/roadmaps/phase-4-validation.jpg",
+      "bytes": 472814,
+      "sha256": "84d62f7393c967fcb1b22014888bfdb9b6f12f319db01a1ef6737a8bd2af080a"
+    },
+    {
+      "source_file": "MyZubster-Roadmap-Phase-5-Scale.png.jpg",
+      "target_path": "assets/roadmaps/phase-5-scale.jpg",
+      "bytes": 504554,
+      "sha256": "4390fa802d827b74c460b9dd21613c3644048adaa109c2a33739cf32030f51da"
+    },
+    {
+      "source_file": "MyZubster-Roadmap-Phase-6-Impact.png.jpg",
+      "target_path": "assets/roadmaps/phase-6-impact.jpg",
+      "bytes": 472443,
+      "sha256": "66c57fb5bb6bdfc9fcdb1f939e1bd6ef77aa62afcc222c850c1d49b983a34269"
+    },
+    {
+      "source_file": "MyZubster-Roadmap-2025-2027-Environmental-Impact.png",
+      "target_path": "assets/roadmaps/environmental-impact-2025-2027.png",
+      "bytes": 1970920,
+      "sha256": "c850ba0b4438183cce2c7af9f8f38631cf3a3fa138b1740c4edcfd45de7c5678"
+    },
+    {
+      "source_file": "Space_Station_Roadmap_Entita_LIFE_MyZubster.png.jpg",
+      "target_path": "assets/roadmaps/space-station-entities-life.jpg",
+      "bytes": 462088,
+      "sha256": "3b0d7b408a9b3a7dc589485f3b4b88d03631cce0f77d29a9b959493822d983ba"
+    },
+    {
+      "source_file": "MyZubster-AI-Generation-Pipeline.png.jpg",
+      "target_path": "assets/diagrams/ai-generation-pipeline.jpg",
+      "bytes": 313945,
+      "sha256": "3c154808e1aa9f5c2a6da568d647ffc005065beb99ea5f3d54625c56b4ceb135"
+    },
+    {
+      "source_file": "MyZubster_Cyberpunk_Comic_NeoRoma_2077.png.jpg",
+      "target_path": "assets/comic/neo-roma-2077.jpg",
+      "bytes": 597349,
+      "sha256": "a1858e6faacddc93a850df851d71e776948dc1b6d02ca3685165fddd07c4cad6"
+    },
+    {
+      "source_file": "MyZubster-cyberpunk-LIFE-2026.png.jpg",
+      "target_path": "assets/life/myzubster-cyberpunk-life-2026.jpg",
+      "bytes": 514764,
+      "sha256": "77272e66b4b62bb4a77fbf95adddecd19a3f86087c8cf7513bc2e2ad21b558bd"
+    },
+    {
+      "source_file": "Urban-Lab-Rimini-MyZubster-LIFE-2026.jpg",
+      "target_path": "assets/life/urban-lab-rimini-life-2026.jpg",
+      "bytes": 446046,
+      "sha256": "128c119663c4d92cdd32c82d1b89005dcedb52334c36ef045dbd50ea385213c2"
+    },
+    {
+      "source_file": "MyZubster \u2014 Fumetto cyberpunk collaborazione futura.png",
+      "target_path": "assets/comic/collaborazione-futura.png",
+      "bytes": 2670198,
+      "sha256": "f2b5182fd42ed4257b85181ab23ce77f98d7275b8ad7e24a65da8f7612dd01b6"
+    },
+    {
+      "source_file": "MyZubster-Cyberpunk-Visual-04-Real-Life-to-Story.png",
+      "target_path": "assets/cyberpunk-series/real-life-to-story.png",
+      "bytes": 2773653,
+      "sha256": "0b286d683bd44ca67da6512d6d5f5f9d20ec57880550493cdc5bb004d942d37e"
+    }
+  ],
+  "missing": []
+}

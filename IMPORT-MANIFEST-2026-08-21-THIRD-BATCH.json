@@ -1,0 +1,33 @@
+{
+  "generated_at": "2026-08-21",
+  "files": [
+    {
+      "source_file": "MyZubster_UrbanLab_KuKirin_G2Max_Cyberpunk.png.jpg",
+      "target_repo": "MyZubster-Ecosystem/MyZubster-Visual",
+      "target_path": "assets/life/urban-lab-rimini/myzubster-urbanlab-kukirin-g2max-cyberpunk.jpg",
+      "bytes": 419071,
+      "sha256": "5570de622fdab6c197d6cb86f354c271b3ab825dd6793b319ec02893a50458b9"
+    },
+    {
+      "source_file": "Fontana_Acqua_Ridracoli_Covignano_Rimini.jpg",
+      "target_repo": "MyZubster-Ecosystem/MyZubster-Visual",
+      "target_path": "assets/life/fontana-acqua-ridracoli-covignano-rimini.jpg",
+      "bytes": 516799,
+      "sha256": "774570dbd09114755597fbe384f85e28e7e8c3998b4b6cc9ff6d208ae53b00d6"
+    },
+    {
+      "source_file": "MyZubster-Time-Machine-Cyberpunk.png.jpg",
+      "target_repo": "MyZubster-Ecosystem/MyZubster-Visual",
+      "target_path": "assets/concepts/myzubster-time-machine-cyberpunk.jpg",
+      "bytes": 519051,
+      "sha256": "b1fd8723894deb1655ce453c8a6ea1b7703826b108f7e97e39165f33dd163f72"
+    },
+    {
+      "source_file": "Zorgax-Update-Cyberpunk-Comic.png.jpg",
+      "target_repo": "MyZubster-Ecosystem/MyZubster-Visual",
+      "target_path": "assets/comic/zorgax-update-cyberpunk-comic.jpg",
+      "bytes": 495612,
+      "sha256": "cb8075ccfa59b6b3f4b125811f218121b55c4f4b331a23f2b7064ab8b1ea70d2"
+    }
+  ]
+}
