@@ -189,3 +189,8 @@ A contributor should provide:
 ## Canonical rule
 
 **Sentinel exists to make security verification understandable, not to glamorize unauthorized exploitation.**
+
+## Published visual set
+
+The first visual set and its reproducible workflow are documented in
+[`metasploit-sentinel-assets.md`](./metasploit-sentinel-assets.md).
