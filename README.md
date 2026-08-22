@@ -32,6 +32,22 @@ Every creator builds their own identity, world and story. The shared MyZubster u
 - [Visual bounty rules](BOUNTIES.md)
 - [Community bounty entry issue #1](https://github.com/MyZubster-Ecosystem/MyZubster-Visual/issues/1)
 
+## Canonical characters
+
+### Metasploit Sentinel
+
+**Metasploit Sentinel** is the canonical MyZubster security-validation character: a defensive, authorization-bound purple-team guardian focused on scope, evidence, remediation and retesting.
+
+```text
+DISCOVER → VERIFY AUTHORIZATION → ASSESS SAFELY → RECORD EVIDENCE → REMEDIATE → RETEST
+```
+
+Sentinel is a narrative/visual representation of controlled security assessment. The character does **not** imply unrestricted autonomous exploitation, authorization to test third-party systems, or a production-ready Metasploit exploit engine.
+
+- [Canonical character specification](comics/characters/metasploit-sentinel.md)
+- [Visual creation bounty #10](https://github.com/MyZubster-Ecosystem/MyZubster-Visual/issues/10)
+- Technical roadmap reference: [`MyZubster-Ecosystem/myzubster#487`](https://github.com/MyZubster-Ecosystem/myzubster/issues/487)
+
 ## Structure
 
 - `assets/bots/` — AI and bot avatars
