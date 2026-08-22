@@ -1,0 +1,8 @@
+# Treat visual assets as binary and prevent line-ending/text conversions.
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.webp binary
+*.gif binary
+*.ico binary
+*.pdf binary
