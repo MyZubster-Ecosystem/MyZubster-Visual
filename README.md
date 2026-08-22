@@ -6,6 +6,14 @@
 
 Canonical visual repository for the MyZubster ecosystem.
 
+## Origin and authorship
+
+**Daniel Ioni is the founder and original ideator of the MyZubster ecosystem and its project universe.** His contribution is the creation and direction of the overall MyZubster concept: connecting software, real-world observations, photographic evidence, bots and AI roles, gateway/API components, robotics, contributor bounties, technical identity work and the MyZubster Comic Universe into one evolving ecosystem.
+
+This attribution refers to the **overall MyZubster concept and ecosystem direction**, not to invention of the underlying third-party technologies used by the project. Technologies such as GitHub, APIs, Monero, Ed25519, IoT, IPFS and other external tools retain their own authorship and provenance.
+
+MyZubster is also a collaborative open-source project. Individual features, implementations, visual assets, tests, integrations and documentation may be created by independent contributors. Those contributions should be credited to their actual authors and must not automatically be attributed to Daniel Ioni.
+
 ## Cyberpunk Discovery Series
 
 MyZubster Visual hosts the **MyZubster Cyberpunk Discovery Series**: a global community bounty where each participant turns **their own real-world discoveries and experiences made through MyZubster** into an original cyberpunk comic series.
