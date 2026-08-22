@@ -34,6 +34,29 @@ Every creator builds their own identity, world and story. The shared MyZubster u
 
 ## Canonical characters
 
+The canonical MyZubster virtual roster now spans the project narrative from **LIFE 2026 environmental exploration to GitHub contributor workflows**.
+
+### LIFE → GitHub roster
+
+1. **LIFE Pathfinder** — environmental pilot and replication navigator.
+2. **Circula** — circular-economy and zero-pollution systems designer.
+3. **MRV Oracle** — baseline, KPI, monitoring and verification guardian.
+4. **Gaia Mapper** — geospatial observations and biodiversity guide.
+5. **EVA IONI** — robotics, sensors and telemetry field agent; simulated telemetry must remain clearly labeled as simulation.
+6. **IPFS Archivist** — sanitized public evidence and provenance archivist.
+7. **Bounty Forge** — contributor-task, scope and acceptance-criteria smith.
+8. **Ledger Keeper** — MYZ internal reward/accounting custodian.
+9. **Gateway Custodian** — application/provider/settlement verification boundary guardian.
+10. **Metasploit Sentinel** — authorized defensive security-validation guardian.
+11. **Zorgax / ZORGAX-001** — virtual ambassador, explorer and fact/lore guide.
+12. **GitHub Chronicler** — issues, PRs, CI and open-source evidence chronicler.
+
+Full canon, visual identities, dialogue, boundaries and first ensemble episode:
+
+- [Virtual Character Roster — LIFE to GitHub](comics/characters/virtual-roster.md)
+
+These characters are fictional/virtual MyZubster identities. They do **not** represent or speak for LIFE/CINEA/EU institutions, GitHub, Rapid7/Metasploit, IPFS, Monero or other third parties, and character lore never proves implementation, partnership, funding, endorsement, payment or environmental impact.
+
 ### Metasploit Sentinel
 
 **Metasploit Sentinel** is the canonical MyZubster security-validation character: a defensive, authorization-bound purple-team guardian focused on scope, evidence, remediation and retesting.
