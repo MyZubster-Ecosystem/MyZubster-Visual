@@ -14,6 +14,26 @@ This attribution refers to the **overall MyZubster concept and ecosystem directi
 
 MyZubster is also a collaborative open-source project. Individual features, implementations, visual assets, tests, integrations and documentation may be created by independent contributors. Those contributions should be credited to their actual authors and must not automatically be attributed to Daniel Ioni.
 
+## Future canon — Onion Underground governance
+
+`FICTION / FUTURE_CONCEPT`
+
+In the MyZubster Comic Universe, **Onion Underground** is a future privacy-first metaverse district where pseudonymous communities, public evidence, reputation and rumor coexist. It is a narrative setting, not proof that MyZubster currently operates a Tor/onion service or hidden marketplace.
+
+The future governance story uses a **Three-Key Protocol**:
+
+1. **Founder Key — Daniel Ioni:** preserves the original MyZubster vision and acts as a continuity/stewardship key.
+2. **Technical Council Key:** represents verified technical contributors responsible for security, infrastructure and implementation review.
+3. **Community Key:** represents transparent community consent for major ecosystem-level decisions.
+
+Critical fictional governance actions require **two-of-three approval**, so the founder remains a central steward without holding unilateral absolute control. The narrative principle is:
+
+> **The vision may have a founder. Power must have controls.**
+
+Within Onion Underground, the virtual roster acts as a checks-and-evidence layer: **Zorgax** watches for anomalous signals and separates rumor from verified information; **GitHub Chronicler** preserves the public contribution and governance trail; **Metasploit Sentinel** guards authorized security boundaries; **Ledger Keeper** distinguishes MYZ records from settlement claims; and **Gateway Custodian** separates application state from independently verified external rails.
+
+This section is deliberately future-facing. It does **not** assert that MYZ is currently exchangeable, that multisig governance is deployed, that any token has market value, or that Daniel Ioni currently controls an operational Onion Underground infrastructure.
+
 ## Cyberpunk Discovery Series
 
 MyZubster Visual hosts the **MyZubster Cyberpunk Discovery Series**: a global community bounty where each participant turns **their own real-world discoveries and experiences made through MyZubster** into an original cyberpunk comic series.
@@ -42,9 +62,9 @@ Every creator builds their own identity, world and story. The shared MyZubster u
 
 ## Canonical characters
 
-The canonical MyZubster virtual roster now spans the project narrative from **LIFE 2026 environmental exploration to GitHub contributor workflows**.
+The canonical MyZubster virtual roster now spans the project narrative from **LIFE 2026 environmental exploration to GitHub contributor workflows** and the future Onion Underground governance layer.
 
-### LIFE → GitHub roster
+### LIFE → GitHub → Underground roster
 
 1. **LIFE Pathfinder** — environmental pilot and replication navigator.
 2. **Circula** — circular-economy and zero-pollution systems designer.
@@ -53,11 +73,11 @@ The canonical MyZubster virtual roster now spans the project narrative from **LI
 5. **EVA IONI** — robotics, sensors and telemetry field agent; simulated telemetry must remain clearly labeled as simulation.
 6. **IPFS Archivist** — sanitized public evidence and provenance archivist.
 7. **Bounty Forge** — contributor-task, scope and acceptance-criteria smith.
-8. **Ledger Keeper** — MYZ internal reward/accounting custodian.
+8. **Ledger Keeper** — MYZ internal reward/accounting custodian and future governance-record boundary keeper.
 9. **Gateway Custodian** — application/provider/settlement verification boundary guardian.
-10. **Metasploit Sentinel** — authorized defensive security-validation guardian.
-11. **Zorgax / ZORGAX-001** — virtual ambassador, explorer and fact/lore guide.
-12. **GitHub Chronicler** — issues, PRs, CI and open-source evidence chronicler.
+10. **Metasploit Sentinel** — authorized defensive security-validation guardian and future Underground security-boundary sentinel.
+11. **Zorgax / ZORGAX-001** — virtual ambassador, explorer, anomaly watcher and fact/lore guide.
+12. **GitHub Chronicler** — issues, PRs, CI, governance history and open-source evidence chronicler.
 
 Full canon, visual identities, dialogue, boundaries and first ensemble episode:
 
@@ -73,7 +93,7 @@ These characters are fictional/virtual MyZubster identities. They do **not** rep
 DISCOVER → VERIFY AUTHORIZATION → ASSESS SAFELY → RECORD EVIDENCE → REMEDIATE → RETEST
 ```
 
-Sentinel is a narrative/visual representation of controlled security assessment. The character does **not** imply unrestricted autonomous exploitation, authorization to test third-party systems, or a production-ready Metasploit exploit engine.
+In future Onion Underground stories, Sentinel guards the boundary between privacy and abuse: security validation remains authorization-bound even inside pseudonymous spaces. The character never grants permission to attack third-party systems.
 
 - [Canonical character specification](comics/characters/metasploit-sentinel.md)
 - [Visual creation bounty #10](https://github.com/MyZubster-Ecosystem/MyZubster-Visual/issues/10)
@@ -99,5 +119,7 @@ The `assets/comic/` and `comics/` directories have different purposes: binary ar
 ## MYZ
 
 MYZ is currently an internal MyZubster platform ledger unit.
+
+Any future story in which MYZ is exchanged, governed by multisig or used in Onion Underground is **fictional/future concept material unless independently implemented and verified**.
 
 Visual metadata, comic publication, issue closure or artwork acceptance does not itself imply payment, external settlement, token transfer or on-chain state.
